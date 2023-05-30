@@ -357,3 +357,4 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 2023-05-08 20:18:47.519 Unity[13279:8646799] HIToolbox: received notification of WindowServer event port death.
 2023-05-08 20:18:47.521 Unity[13279:8646799] port matched the WindowServer port created in BindCGSToRunLoop
+2023-05-20 17:37:19.014 Unity[13279:8646799] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
